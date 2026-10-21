@@ -1,0 +1,67 @@
+[
+  {
+    "postId": "6ad8fbd0ada3cc92bb55a9b2",
+    "postTitle": "fake tag",
+    "postUrl": "http://localhost:2368/fake-tag/",
+    "featureImage": null,
+    "publishedAt": "2026-10-21T17:52:32.000+00:00",
+    "location": {
+      "lat": 40.7128,
+      "lng": -74.006,
+      "label": "New York (Manual Fix)",
+      "source": "manual_override"
+    }
+  },
+  {
+    "postId": "6ad8ed2aada3cc92bb55a9a7",
+    "postTitle": "test 4",
+    "postUrl": "http://localhost:2368/test-4/",
+    "featureImage": null,
+    "publishedAt": "2026-10-21T16:49:57.000+00:00",
+    "location": {
+      "lat": 48.8588897,
+      "lng": 2.320041,
+      "label": "France, Paris",
+      "source": "tag_geocode"
+    }
+  },
+  {
+    "postId": "6ad8e7d8ada3cc92bb55a993",
+    "postTitle": "test 3 london",
+    "postUrl": "http://localhost:2368/test-3-london/",
+    "featureImage": null,
+    "publishedAt": "2026-10-21T16:27:09.000+00:00",
+    "location": {
+      "lat": 64.12404,
+      "lng": -21.88043,
+      "label": "Map Link",
+      "source": "map_link"
+    }
+  },
+  {
+    "postId": "6ad8e011ada3cc92bb55a982",
+    "postTitle": "test 2, map link",
+    "postUrl": "http://localhost:2368/test-2-map-link/",
+    "featureImage": null,
+    "publishedAt": "2026-10-21T15:54:41.000+00:00",
+    "location": {
+      "lat": 52.54567,
+      "lng": 13.57292,
+      "label": "Map Link",
+      "source": "map_link"
+    }
+  },
+  {
+    "postId": "6ad8d37eada3cc92bb55a96b",
+    "postTitle": "test 1",
+    "postUrl": "http://localhost:2368/test-1/",
+    "featureImage": null,
+    "publishedAt": "2026-10-21T15:00:23.000+00:00",
+    "location": {
+      "lat": 48.8588897,
+      "lng": 2.320041,
+      "label": "France, Paris",
+      "source": "tag_geocode"
+    }
+  }
+]
