@@ -6,7 +6,7 @@ dotenv.config();
 const API_URL = process.env.GHOST_API_URL;
 const API_KEY = process.env.GHOST_CONTENT_KEY;
 const CACHE_FILE = 'geocode-cache.json';
-const OUTPUT_FILE = 'locations.json';
+const OUTPUT_FILE = '../wanderghost/assets/locations.json';
 const OVERRIDES_FILE = 'manual-overrides.json';
 
 // Load or initialize the geocode cache
