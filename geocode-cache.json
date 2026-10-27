@@ -3,5 +3,20 @@
     "lat": 48.8588897,
     "lng": 2.320041,
     "displayName": "Paris, Île-de-France, France métropolitaine, France"
+  },
+  "Japan, Tokyo": {
+    "lat": 35.6768601,
+    "lng": 139.7638947,
+    "displayName": "東京都, 日本"
+  },
+  "Italy, Rome": {
+    "lat": 41.8933203,
+    "lng": 12.4829321,
+    "displayName": "Roma, Roma Capitale, Lazio, Italia"
+  },
+  "Germany, Berlin": {
+    "lat": 52.5173885,
+    "lng": 13.3951309,
+    "displayName": "Berlin, Deutschland"
   }
 }
